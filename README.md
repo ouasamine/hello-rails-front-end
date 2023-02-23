@@ -43,6 +43,7 @@
 
   - <a href="https://www.npmjs.com/">npm</a>
   - any code editor
+  - In order to succefully run the app you need to install this [chrome extention](https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc?hl=en-US) and make sure to activate it
 
 ### Setup
 
